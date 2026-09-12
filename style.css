@@ -768,3 +768,16 @@ footer {
         bottom: 15px;
     }
 }
+.cv button {
+       display: inline-block;
+       padding: 12px 24px;
+       margine: 10px;
+       background-color: #d4a843;
+       color:  white;
+       text-decoration: none;
+       border-radius: 5px;
+       font-weight: bold;
+}
+.cv button: hover {
+   background-color: #a27b27;
+}
